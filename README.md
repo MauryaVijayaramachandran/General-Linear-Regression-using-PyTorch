@@ -1,4 +1,4 @@
-# General-Linear-Regression-using-PyTorch
+# General-MultiVariate-Linear-Regression-using-PyTorch
 
 1. Linear Regression involves manipulating the bias and gradient to better predict the output. 
 2. It is a supervised Learning Algorithm. 
